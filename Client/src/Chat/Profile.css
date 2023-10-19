@@ -1,0 +1,23 @@
+.bi.bi-x-square.exit {
+    margin-left: 85%;
+}
+#lastMessage {
+    display: block;
+
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 100px;
+    text-underline-color: white;
+
+    text-decoration: none !important;
+    color: unset;
+
+
+}
+
+
+
+
+

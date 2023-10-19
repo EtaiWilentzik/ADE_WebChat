@@ -1,0 +1,10 @@
+body {
+  background-image: url("../../public/background.png");
+height: 100%;
+}
+
+#logo{
+  position: absolute;
+  left: 0;
+  top :0;
+}

@@ -1,0 +1,291 @@
+@media (max-width: 768px) {
+
+    /* //this is on how the scroll whele will be away from the submit*/
+    #sendmessage{
+        margin-top: 35px;
+
+    }
+    /*this is for the actually chat size */
+    #RightCardHeight{
+        height: 260px;
+    }
+    /*this is for the user size */
+    #CardsHeight{
+        height: 120px;
+    }
+    /*this is for the user friend contacts */
+    #contacts{
+
+        height:200px;
+
+    }
+    /*this is down from  the highest part of the page*/
+    .down{
+        margin-top: 10%;
+
+    }
+    /*this is for the user placment of the head*/
+    #person1{
+        margin-left:40%;
+    }
+    /*THIS IS FOR THE LOGO */
+    .photoschat{
+        width: 12%;
+        height: 118%;
+        margin: 0 auto;
+    }
+
+    .right-message {
+        margin-left: 60%;
+    }
+    #etai{
+        white-space: nowrap;}
+
+
+
+    .message-wrapper {
+        display: flex;
+        align-items: center; /* Vertically center the contents */
+    }
+
+    .message-wrapper img {
+        flex-shrink: 0; /* Prevent the image from shrinking */
+        width: 3em; /* Set a default width */
+        height: 3em; /* Set a default height */
+        object-fit: cover; /* Prevent the image from stretching */
+        margin-right: 1em; /* Add some spacing between the image and text */
+    }
+
+    .message-wrapper .text-wrapper {
+        flex: 1; /* Make the text take up all remaining space */
+    }
+    .logout-button {
+        position: absolute;
+        top: 2%;
+        right: 2%;
+        color: red;
+        font-size: 2vw;
+    }
+
+}
+
+
+
+@media (min-width: 768px) and (max-width: 1200px) {
+    /* //this is on how the scroll whele will be away from the submit*/
+    #sendmessage{
+        margin-top: 35px;
+
+    }
+    /*this is for the actually chat size */
+    #RightCardHeight{
+        height: 700px;
+    }
+    /*this is for the user size */
+    #CardsHeight{
+        height: 120px;
+    }
+    /*this is for the user friend contacts */
+    #contacts{
+
+        height:580px;
+
+    }
+    /*this is down from  the highest part of the page*/
+    .down{
+        margin-top: 10%;
+
+    }
+    /*this is for the user placment of the head*/
+    #person1{
+        margin-left:40%;
+    }
+    /*THIS IS FOR THE LOGO */
+    .photoschat{
+        width: 12%;
+        height: 118%;
+        margin: 0 auto;
+    }
+
+    .right-message {
+        margin-left: 60%;
+    }
+    #etai{
+        white-space: nowrap;}
+
+
+
+    .message-wrapper {
+        display: flex;
+        align-items: center; /* Vertically center the contents */
+    }
+
+    .message-wrapper img {
+        flex-shrink: 0; /* Prevent the image from shrinking */
+        width: 3em; /* Set a default width */
+        height: 3em; /* Set a default height */
+        object-fit: cover; /* Prevent the image from stretching */
+        margin-right: 1em; /* Add some spacing between the image and text */
+    }
+
+    .message-wrapper .text-wrapper {
+        flex: 1; /* Make the text take up all remaining space */
+    }
+    .logout-button {
+        position: absolute;
+        top: 2%;
+        right: 2%;
+        color: red;
+        font-size: 2vw;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) and  (max-width: 1700px){
+
+    /* //this is on how the scroll whele will be away from the submit*/
+    #sendmessage{
+        margin-top: 35px;
+
+    }
+    /*this is for the actually chat size */
+    #RightCardHeight{
+        height: 800px;
+    }
+    /*this is for the user size */
+    #CardsHeight{
+        height: 120px;
+    }
+    /*this is for the user friend contacts */
+    #contacts{
+
+        height:680px;
+
+    }
+    /*this is down from  the highest part of the page*/
+    .down{
+        margin-top: 10%;
+
+    }
+    /*this is for the user placment of the head*/
+    #person1{
+        margin-left:40%;
+    }
+    /*THIS IS FOR THE LOGO */
+    .photoschat{
+        width: 12%;
+        height: 118%;
+        margin: 0 auto;
+    }
+
+    .right-message {
+        margin-left: 60%;
+    }
+    #etai{
+        white-space: nowrap;}
+
+
+
+    .message-wrapper {
+        display: flex;
+        align-items: center; /* Vertically center the contents */
+    }
+
+    .message-wrapper img {
+        flex-shrink: 0; /* Prevent the image from shrinking */
+        width: 3em; /* Set a default width */
+        height: 3em; /* Set a default height */
+        object-fit: cover; /* Prevent the image from stretching */
+        margin-right: 1em; /* Add some spacing between the image and text */
+    }
+
+    .message-wrapper .text-wrapper {
+        flex: 1; /* Make the text take up all remaining space */
+    }
+    .logout-button {
+        position: absolute;
+        top: 2%;
+        right: 2%;
+        color: red;
+        font-size: 2vw;
+    }
+
+}
+@media (min-width: 1700px) {
+
+   /* //this is on how the scroll whele will be away from the submit*/
+    #sendmessage{
+        margin-top: 35px;
+
+    }
+    /*this is for the actually chat size */
+    #RightCardHeight{
+        height: 1000px;
+    }
+    /*this is for the user size */
+    #CardsHeight{
+        height: 120px;
+    }
+    /*this is for the user friend contacts */
+    #contacts{
+
+        height:880px;
+
+    }
+    /*this is down from  the highest part of the page*/
+    .down{
+        margin-top: 4%;
+
+    }
+/*this is for the user placment of the head*/
+    #person1{
+        margin-left:40%;
+    }
+/*THIS IS FOR THE LOGO */
+    .photoschat{
+        width: 12%;
+        height: 118%;
+        margin: 0 auto;
+    }
+
+    .right-message {
+        margin-left: 60%;
+    }
+    #etai{
+        white-space: nowrap;}
+
+
+
+    .message-wrapper {
+        display: flex;
+        align-items: center; /* Vertically center the contents */
+    }
+
+    .message-wrapper img {
+        flex-shrink: 0; /* Prevent the image from shrinking */
+        width: 3em; /* Set a default width */
+        height: 3em; /* Set a default height */
+        object-fit: cover; /* Prevent the image from stretching */
+        margin-right: 1em; /* Add some spacing between the image and text */
+    }
+
+    .message-wrapper .text-wrapper {
+        flex: 1; /* Make the text take up all remaining space */
+    }
+    .logout-button {
+        position: absolute;
+        top: 2%;
+        right: 2%;
+        color: red;
+        font-size: 2vw;
+    }
+
+}

@@ -1,0 +1,13 @@
+#moo {
+  height: 40%;
+}
+
+#foo {
+  border-radius: 40px;
+  margin-top: 5vh;
+}
+
+.cont {
+  width: 90vw !important; /* 100% of the viewport width */
+  height: 90vh !important; /* 100% of the viewport height */
+}
