@@ -1,4 +1,4 @@
-
+ need to go to Cleint and Server Directory and then in each one npm install and npm start.
 <img src="https://github.com/adital2512/advanced2-ex-1B/assets/118116425/8b59aaa1-f524-44ab-b0b3-de2a6fc44680" alt="logo" width="200" height="200">
 <h1> ADE CHAT</h1>
 
